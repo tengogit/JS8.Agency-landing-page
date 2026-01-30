@@ -1,0 +1,66 @@
+@media(min-width:768px) {
+    .cont {
+        width: 100%;
+        max-width: 768px;
+    }
+
+    header {
+        background-image: url(./assets/header-bg-tab.svg);
+        height: 800px;
+        padding: 48px 40px;
+    }
+
+    h1 {
+        font-size: 56px;
+        letter-spacing: 9px;
+        margin: 72px 0;
+    }
+
+    .section-box2-txt {
+        gap: 32px;
+        padding: 67.5px 158.5px;
+    }
+
+    h2 {
+        font-size: 36px;
+        letter-spacing: -0.29px;
+    }
+
+    h3 {
+        font-size: 16px;
+    }
+
+    .cherry {
+        background-image: url(./assets/cherry-bg-tab.svg);
+    }
+
+    .orange {
+        background-image: url(./assets/orange-bg-tab.svg);
+    }
+
+    .cherry,
+    .orange {
+        padding: 396px 214.5px 56px 214.5px;
+    }
+
+    h4 {
+        opacity: 100%;
+    }
+
+    article {
+        padding: 71.5px 84px;
+    }
+
+    h6 {
+        margin-bottom: 80px;
+    }
+
+    .burger-menu {
+        top: 103px;
+        left: 40px;
+        width: 688px;
+        height: 329px;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
