@@ -29,7 +29,7 @@ body {
     user-select: none;
     overflow-x: hidden;
     overflow-y: auto;
-    height: 100dvh;
+    min-height: 100dvh;
     font-family: "Barlow", sans-serif;
 
 }
