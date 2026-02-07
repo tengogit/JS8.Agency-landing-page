@@ -155,13 +155,14 @@ section a {
 
 .cherry {
     background-image: url(./assets/cherry-bg-mobile.svg);
+    background-repeat: no-repeat;
 
 
 }
 
 .orange {
     background-image: url(./assets/orange-bg-mob.svg);
-
+background-repeat: no-repeat;
 }
 
 .section3-txt {
