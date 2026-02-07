@@ -47,6 +47,7 @@ header {
     width: 100%;
     height: 538px;
     background-image: url(./assets/header-bg-mob.svg);
+    background-repeat: no-repeat;
     padding: 32px 24px 140px 24px;
 }
 
